@@ -1,15 +1,7 @@
-# WWW.HENUKA.LK
 <html>
-<head>
- this is my weab site 
-  </head>
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  <html>
+ <tittle>hh</tittle>
+ <body>
+  <begin>
+   write "name"(h)
+   <if h= henuka THEN>
+    
